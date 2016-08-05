@@ -1,0 +1,29 @@
+{
+  "name": "metafile",
+  "version": "0.0.1",
+  "description": "FCC - metafile service api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaizai56/metafile.git"
+  },
+  "keywords": [
+    "FCC",
+    "FreeCodeCamp",
+    "expressjs",
+    "nodejs",
+    "metadata"
+  ],
+  "author": "ZaiZai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaizai56/metafile/issues"
+  },
+  "homepage": "https://github.com/Zaizai56/metafile#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
